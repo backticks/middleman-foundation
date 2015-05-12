@@ -1,7 +1,25 @@
-# Backticks Middleman Foundation 
+# Backticks Foundation: Middleman Template
 
-## Includes
-1. Bourbon / Neat / Bitters for styles
-2. Layouts set up with partials
-3. ActiveReload
-4. Folder for data 
+## What is it?
+
+Backticks Foundation is a **single page** site starting point for the [Middleman](http://middlemanapp.com/) static site generator. It features:
+
+  - Sass
+  - Bourbon
+  - Data Folder Structure 
+  - Standard 
+
+## Middleman Template
+
+Clone the Git repository into `~/.middleman`, like so:
+
+```bash
+git clone https://github.com/backticks/middleman-foundation.git ~/.middleman/middleman-foundation
+```
+
+Then use the new template argument for the `middleman init` command:
+
+```bash
+middleman init my_static_site --template=middleman-foundation
+```
+
