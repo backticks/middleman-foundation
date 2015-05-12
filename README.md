@@ -7,7 +7,7 @@ Backticks Foundation is a **single page** site starting point for the [Middleman
   - Sass
   - Bourbon
   - Data Folder Structure 
-  - Standard 
+  - Standard Layout Structure (partials already setup)
 
 ## Middleman Template
 
